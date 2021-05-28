@@ -1,8 +1,8 @@
 {
     "info": {
-        "url_png_icon_64x64": "icon64.png",
-        "url_png_logo": "https://adamantium.online/images/sun.jpg",
-        "location": "New Hampshire, USA",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Zebra-Danio/meta/main/icon64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/Zebra-Danio/meta/main/logo.png",
+        "location": "London, UK",
         "social": {
             "twitter_handle": "Armadillo_Pool",
             "discord_handle": "Zebra Danio#2501",
