@@ -3,6 +3,6 @@
 "description": "Minimum fees, maximum reliability, helping to secure the Cardano blockchain",
 "ticker": "AMDLO",
 "homepage": "https://armadillo-pool.org",
-"extended": "https://adamantium.online/extendedPoolMetaData.json"
+"extended": "https://raw.githubusercontent.com/Zebra-Danio/meta/main/extendedPoolMetaData.json"
 }
 EOF
